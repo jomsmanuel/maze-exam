@@ -1,1 +1,1 @@
-# maze-exam
+# 3D-maze
